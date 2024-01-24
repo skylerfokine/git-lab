@@ -96,7 +96,7 @@ the answer didnt push becasue the repository had different code to that of what 
 
 Answer 12: 
 
-the changes I made on git were pulled and updated the code locally to match what I had on the repositiory 
+the changes I made on git were pulled and updated the code locally to match what I had on the repositiory.
 
 Answer 13:
 
